@@ -9,3 +9,4 @@ while (i < 10) {
     i++;
 }
 console.log('Fuera del While');
+
